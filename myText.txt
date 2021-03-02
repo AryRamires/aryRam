@@ -1,0 +1,2 @@
+Here goes my text:
+	Hello Git bash
